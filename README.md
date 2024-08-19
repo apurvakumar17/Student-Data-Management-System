@@ -6,5 +6,5 @@ Important Instructions to run the file:-
 1. Python and Mysql should be installed on the PC.
 2. Program should be opened in Python IDE and then should be runned from there.
 3. Please run the setup.py file before running the main2.py file.
-4. If you are getting error while running the setup.py file. Please run the ```pip install --upgrade mysql-connector-python``` command in the terminal.
+4. If you are getting error while running the setup.py file. Please run the ```pip install mysql.connector``` and ```pip install --upgrade mysql-connector-python``` command in the terminal.
 5. There is a default password for mysql is setted in the code, change that password accordingly to your password.
